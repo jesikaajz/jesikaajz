@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy Jesika 👋
 
-<!--
-**jesikaajz/jesikaajz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Computer Engineer enfocada en sistemas y desarrollo full-stack  
+📍 Barcelona, Catalonia
 
-Here are some ideas to get you started:
+## 🛠️ Stack
+`C++` `Python` `JavaScript` `Django/DRF` `Bash` `PostgreSQL` `MySQL` `MongoDB` `Cassandra`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos destacados
+- **[Data_structure](https://github.com/jesikaajz/Data_structure)** — librería de estructuras de datos y algoritmos en C++ moderno (BSTs, grafos, hash tables, tries, AVL/RB trees...)
+- **[Letterboxd-Clone](https://github.com/jesikaajz/Letterboxd-Clone)** — clon full-stack de Letterboxd con Django REST Framework + JS vanilla
+- **[SEAX](https://github.com/jesikaajz/SEAX)** — soluciones de administración de redes y sistemas (firewall, DNS, DHCP, monitorización con Nagios)
+
+## 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/jesika-jimenez-prado-16a0263a8/) · [Portfolio](https://jesikaajz.github.io)

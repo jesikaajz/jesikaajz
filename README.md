@@ -40,13 +40,6 @@ Computer Engineer with hands-on experience across the stack — from algorithm a
 | [**SEAX**](https://github.com/jesikaajz/SEAX) | Solutions for network and systems administration: firewall configuration (nftables), DNS (Bind9), DHCP, and monitoring (Nagios). |
 | [**DABD**](https://github.com/jesikaajz/DABD) | Python scripts for data generation and management across four database systems — PostgreSQL, MySQL, MongoDB, and Cassandra. |
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jesikaajz&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesikaajz&layout=compact&hide_border=true" height="165" alt="Top languages" />
-</div>
-
 ---
 
 <div align="center">
